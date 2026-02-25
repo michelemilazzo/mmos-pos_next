@@ -316,3 +316,4 @@ scheduler_events = {
 
 
 website_route_rules = [{'from_route': '/pos/<path:app_path>', 'to_route': 'pos'},]
+frappe_version = ">=15.0.0,<17.0.0"
